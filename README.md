@@ -1,12 +1,11 @@
-### Hi There!!🙌🙌
+### Hi There!!🙌�
 ### My name is Mayank Mewar
-<!--
-- 📱I'm currently working on E-Commerce Website 
-- 📙I'm currently learning about Competitive Programming
-- 🤔Looking forward for help in Competitive Programming
-- 💬Ask Me about FrontEnd Development, SQL , C++
-
--->
+<p>
+ 📱I'm currently working on E-Commerce Website 
+ 📙I'm currently learning about Competitive Programming
+ 🤔Looking forward for help in Competitive Programming
+ 💬Ask Me about FrontEnd Development, SQL , C++
+</p>
 
 ** Have worked in  **
 <p>
