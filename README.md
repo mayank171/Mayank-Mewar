@@ -1,10 +1,10 @@
-### Hi There!!🙌�
+### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### My name is Mayank Mewar
 <p>
- 📱I'm currently working on E-Commerce Website 
- 📙I'm currently learning about Competitive Programming
- 🤔Looking forward for help in Competitive Programming
- 💬Ask Me about FrontEnd Development, SQL , C++
+ 📱I'm currently working on E-Commerce Website <br>
+ 📙I'm currently learning about Competitive Programming <br>
+ 🤔Looking forward for help in Competitive Programming  <br>
+ 💬Ask Me about FrontEnd Development, SQL , C++  <br>
 </p>
 
 ** Have worked in  **
