@@ -13,5 +13,5 @@
   <img alt="Cpp" src="https://img.shields.io/badge/cpp-blue?logo=cpp&logoColor=white&style=flat" />
   <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=java&logoColor=blue&style=flat" />
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-Yellow?logo=javascript&logoColor=yellow&style=flat" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=orange&style=flat" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
 </p>
