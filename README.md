@@ -33,4 +33,4 @@
 
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank171&show_icons=true&theme=radical)
 
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mayank171 &layout=compact />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank171&theme=dracula)](https://github.com/mayank171/github-readme-stats)
