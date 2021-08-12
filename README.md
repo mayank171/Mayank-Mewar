@@ -34,3 +34,6 @@
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank171&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank171&theme=dark)](https://github.com/mayank171/github-readme-stats)
+
+[![Mayank's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayank171)](https://github.com/mayank171/github-readme-stats)
+
