@@ -31,9 +31,9 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-DD4814?logo=linux&logoColor=white&style=flat" />
 </p>
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank171&show_icons=true&theme=radical)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank171&show_icons=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank171&theme=dark)](https://github.com/mayank171/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank171&theme=gotham)](https://github.com/mayank171/github-readme-stats)
 
-[![Mayank's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayank171)](https://github.com/mayank171/github-readme-stats)
+
 
