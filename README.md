@@ -31,5 +31,4 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-DD4814?logo=linux&logoColor=white&style=flat" />
 </p>
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank171&hide=contribs,prs)
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank171&show_icons=true)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank171&show_icons=true&theme=dracula)
