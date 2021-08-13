@@ -25,7 +25,7 @@
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
-  /><br>
+  />
   
   <a href="https://www.facebook.com/mayank.mewar.3/">
   <img
