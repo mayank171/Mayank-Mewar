@@ -19,7 +19,6 @@
   
 </p>
 
-<p>
 **Connect with me on: **<br>
  <a href="https://www.linkedin.com/in/mayank-mewar-586090173/">
   <img
@@ -32,7 +31,7 @@
     alt="Facebook"
     src="https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=white&style=flat"
   /><br>
-</p>
+
 
 ** Version Control And Development Tools used so Far:**
 <p>
