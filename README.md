@@ -38,8 +38,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank171&theme=gotham)](https://github.com/mayank171/github-readme-stats)
 
-
-**Connect with me on: **<br>
+<p>
+  **Connect with me on: **<br>
  <a href="https://www.linkedin.com/in/mayank-mewar-586090173/">
   <img
     alt="Linkedin"
@@ -51,3 +51,4 @@
     alt="Facebook"
     src="https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=white&style=flat"
   /><br>
+   </p>
