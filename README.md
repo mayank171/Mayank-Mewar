@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank171&theme=gotham)](https://github.com/mayank171/github-readme-stats)
 
 
-  ###Connect with me on:
+### Connect with me on:
 <p>
 
  <a href="https://www.linkedin.com/in/mayank-mewar-586090173/">
