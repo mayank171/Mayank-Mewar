@@ -19,6 +19,15 @@
   
 </p>
 
+<p>
+**Connect with me on: **
+ <a href="https://www.linkedin.com/in/mayank-mewar-586090173/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
+  />
+</p>
+
 ** Version Control And Development Tools used so Far:**
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
