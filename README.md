@@ -55,5 +55,5 @@
   /><br>
  </p>
   
-### link to my website:
+### Link to my website:
   <a href="https://geektech1717.blogspot.com/">GeekTech</a>
