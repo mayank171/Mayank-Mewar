@@ -2,9 +2,10 @@
 ### My name is Mayank Mewar
 <p>
  📱I'm currently working on E-Commerce Website <br>
- 📙I'm currently learning about Competitive Programming <br>
+ 📙I'm currently learning about C++ STL <br>
  🤔Looking forward for help in Competitive Programming  <br>
- 💬Ask Me about FrontEnd Development, SQL , C++  <br>
+ 💬Ask Me about FrontEnd Development, SQL , C++ , DSA <br>
+ ⚡Fun Fact: The world’s first computer programmer was a renowned female mathematician - Ada Lovelace
 </p>
 
 ** Have worked in  **
