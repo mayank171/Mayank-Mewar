@@ -57,4 +57,4 @@
  </p>
   
 ### Link to my website:
-  <a href="https://geektech1717.blogspot.com/">GeekTech</a>
+  <a href="https://geektech1717.blogspot.com/" target="_blank">GeekTech</a>
