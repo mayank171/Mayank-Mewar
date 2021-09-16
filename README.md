@@ -17,6 +17,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-61DAFB?logo=css3&logoColor=white&style=flat" />
   <img alt="PHP" src="https://img.shields.io/badge/Php-blue?logo=php&logoColor=white&style=flat" />
   <img alt="SQL" src="https://img.shields.io/badge/Sql-green?logo=microsoft+sql+server&logoColor=white&style=flat" />
+ <img alt="Bootstrap" src="https://img.shields.io/badge/Sql-purple?logo=bootstrap&logoColor=white&style=flat" />
   
 </p>
 
