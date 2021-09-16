@@ -12,7 +12,7 @@
 <p>
   <img alt="Cpp" src="https://img.shields.io/badge/Cpp11-blue?logo=c++11&logoColor=white&style=flat" />
   <img alt="Java" src="https://img.shields.io/badge/Java-lightblue?logo=java&logoColor=red&style=flat" />
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-lightyellow?logo=javascript&logoColor=white&style=flat" />
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white&style=flat" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-61DAFB?logo=css3&logoColor=white&style=flat" />
   <img alt="PHP" src="https://img.shields.io/badge/Php-blue?logo=php&logoColor=white&style=flat" />
