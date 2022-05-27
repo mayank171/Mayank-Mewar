@@ -1,5 +1,7 @@
 <img src="https://github.com/mayank171/mayank171/blob/main/download%20(2).png?raw=true">
 
+
+
 <p>
  📱I'm currently working on Messageboard Application <br>
  📙I'm currently learning about C++ STL <br>
@@ -8,7 +10,9 @@
  ⚡Fun Fact: The world’s first computer programmer was a renowned female mathematician - Ada Lovelace
 </p>
 
-** Have worked in  **
+
+
+### Have worked in 
 <p>
   <img alt="Cpp" src="https://img.shields.io/badge/Cpp11-blue?logo=c++11&logoColor=white&style=flat" />
   <img alt="Java" src="https://img.shields.io/badge/Java-lightblue?logo=java&logoColor=red&style=flat" />
@@ -23,30 +27,35 @@
 
 
 
-
-** Version Control And Development Tools used so Far:**
+### Version Control And Development Tools used so Far
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-5C2D91?logo=visual+studio+code&logoColor=white&style=flat" />
 </p>
 
-** Familier with Operating Systems:**
+
+
+### Familier with Operating Systems:
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-DD4814?logo=linux&logoColor=white&style=flat" />
 </p>
 
+
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank171&show_icons=true&theme=nightowl)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank171&theme=gotham)](https://github.com/mayank171/github-readme-stats)
 
-** Github profile Views: **
-<p>
-   ![Profile views](https://gpvc.arturio.dev/[mayank171])
-</p>
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank171)](https://git.io/streak-stats)
+
+
+
+
+### Link to Website:
+  <p><a href="https://geektech1717.blogspot.com/" target="_blank">GeekTech</a></p>
+
 
 
 ### Connect with me on:
@@ -65,5 +74,5 @@
   /><br>
  </p>
   
-### Link to my website:
-  <a href="https://geektech1717.blogspot.com/" target="_blank">GeekTech</a>
+  
+  
