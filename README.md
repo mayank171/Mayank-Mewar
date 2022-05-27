@@ -40,6 +40,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank171&theme=gotham)](https://github.com/mayank171/github-readme-stats)
 
+** Github profile Views: **
+<p>
+   ![Profile views](https://gpvc.arturio.dev/[mayank171])
+</p>
+
 
 ### Connect with me on:
 <p>
