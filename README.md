@@ -3,8 +3,8 @@
 
 
 <p>
- 📱I'm currently working on Messageboard Application <br>
- 📙I'm currently learning about C++ STL <br>
+ 📱I'm currently working on a Jobs Scraper web application. <br>
+ 📙
  🤔Looking forward for help in Competitive Programming  <br>
  💬Ask Me about FrontEnd Development, SQL , C++ , DSA <br>
  ⚡Fun Fact: The world’s first computer programmer was a renowned female mathematician - Ada Lovelace
