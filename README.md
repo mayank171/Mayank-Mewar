@@ -18,6 +18,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white&style=flat" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-61DAFB?logo=css3&logoColor=white&style=flat" />
+  <img alt="CSS" src="https://img.shields.io/badge/Flask-61DAFB?logo=flask&logoColor=white&style=flat" />
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat" />
   <img alt="SQL" src="https://img.shields.io/badge/Sql-green?logo=microsoft+sql+server&logoColor=white&style=flat" />
  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white&style=flat" />
