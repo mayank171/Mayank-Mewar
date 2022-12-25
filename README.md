@@ -3,7 +3,7 @@
 
 
 <p>
- 📱I'm currently working on a Jobs Scraper web application. <br>
+ 📱I'm currently working on a Placement Cell Management System. <br>
  📙
  🤔Looking forward for help in Competitive Programming  <br>
  💬Ask Me about FrontEnd Development, SQL , C++ , DSA <br>
