@@ -7,7 +7,7 @@
  🤔Looking forward for help in Competitive Programming  <br>
  💬Ask Me about FrontEnd Development, SQL , C++ , DSA <br>
  ⚡Fun Fact: The world’s first computer programmer was a renowned female mathematician - Ada Lovelace
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 
 </p>
 
