@@ -1,4 +1,4 @@
-<img src="https://github.com/mayank171/mayank171/blob/main/download%20(2).png?raw=true" width="400" height="250" />
+<img src="https://github.com/mayank171/mayank171/blob/main/download%20(2).png?raw=true">
 
 
 
