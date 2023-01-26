@@ -15,7 +15,7 @@
 
 ### Have worked in 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Java" src="https://img.shields.io/badge/Cpp-blue?logo=cpp&logoColor=darkblue&style=flat" />
   <img alt="Java" src="https://img.shields.io/badge/Java-lightblue?logo=java&logoColor=red&style=flat" />
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white&style=flat" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
