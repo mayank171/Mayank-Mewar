@@ -53,10 +53,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank171)](https://git.io/streak-stats)
 
 
-### Leetcode badges
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={
-user0769Ql})
-
 
 ### Link to Website:
   <p><a href="https://geektech1717.blogspot.com/" target="_blank">GeekTech</a></p>
