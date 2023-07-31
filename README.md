@@ -54,8 +54,8 @@
 
 
 ### Leetcode badges
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={
-user0769Ql}" alt="LeetCode Badges"/>
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={
+user0769Ql})
 
 
 ### Link to Website:
