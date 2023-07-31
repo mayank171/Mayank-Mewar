@@ -53,6 +53,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank171)](https://git.io/streak-stats)
 
 
+### Leetcode badges
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={
+user0769Ql}" alt="LeetCode Badges"/>
 
 
 ### Link to Website:
